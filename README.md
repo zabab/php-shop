@@ -1,2 +1,2 @@
-# php-shopМ
+# php-shop
 Магазин
